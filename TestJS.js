@@ -6,3 +6,4 @@ function testJS() {
  
 
 }
+// Version 2 - Added error handling
